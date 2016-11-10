@@ -40,9 +40,6 @@
 [submodule "typo3conf/ext/solr"]
 	path = typo3conf/ext/solr
 	url = https://github.com/TYPO3-Solr/ext-solr.git
-[submodule "typo3conf/ext/seo_basics"]
-	path = typo3conf/ext/seo_basics
-	url = git@github.com:pixelant/t3ext-seo_basics.git
 [submodule "typo3conf/ext/realurl_404_multilingual"]
 	path = typo3conf/ext/realurl_404_multilingual
 	url = git@github.com:svewap/realurl_404_multilingual.git
