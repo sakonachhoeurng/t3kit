@@ -49,3 +49,6 @@
 [submodule "typo3conf/ext/pxa_form_enhancement"]
 	path = typo3conf/ext/pxa_form_enhancement
 	url = git@github.com:pixelant/pxa_form_enhancement.git
+[submodule "typo3conf/ext/seo_basics"]
+	path = typo3conf/ext/seo_basics
+	url = git@github.com:b13/t3ext-seo_basics.git
