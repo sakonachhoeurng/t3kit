@@ -104,6 +104,9 @@ return [
         'recordlist' => [
             'packagePath' => 'typo3/sysext/recordlist/',
         ],
+        'recycler' => [
+            'packagePath' => 'typo3/sysext/recycler/',
+        ],
         'reports' => [
             'packagePath' => 'typo3/sysext/reports/',
         ],
