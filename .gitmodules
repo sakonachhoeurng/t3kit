@@ -6,7 +6,7 @@
 	url = git@github.com:t3kit/t3kit_extension_tools.git
 [submodule "typo3conf/ext/dyncss"]
 	path = typo3conf/ext/dyncss
-	url = git@github.com:kaystrobach/TYPO3.dyncss.git
+	url = git@github.com:anjeylink/TYPO3.dyncss.git
 [submodule "typo3conf/ext/dyncss_less"]
 	path = typo3conf/ext/dyncss_less
 	url = git@github.com:kaystrobach/TYPO3.dyncss_less.git
@@ -15,7 +15,7 @@
 	url = git@github.com:kaystrobach/TYPO3.yaml_parser.git
 [submodule "typo3conf/ext/themes"]
 	path = typo3conf/ext/themes
-	url = git@github.com:typo3-themes/themes.git
+	url = git@github.com:t3kit/themes.git
 [submodule "typo3conf/ext/static_info_tables"]
 	path = typo3conf/ext/static_info_tables
 	url = git://git.typo3.org/TYPO3CMS/Extensions/static_info_tables.git
@@ -36,7 +36,7 @@
 	url = git@github.com:mhirdes/go_maps_ext.git
 [submodule "typo3conf/ext/gridelements"]
 	path = typo3conf/ext/gridelements
-	url = git@github.com:TYPO3-extensions/gridelements.git
+	url = git@github.com:t3kit/gridelements.git
 [submodule "typo3conf/ext/solr"]
 	path = typo3conf/ext/solr
 	url = https://github.com/TYPO3-Solr/ext-solr.git
